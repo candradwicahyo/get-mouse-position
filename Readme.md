@@ -17,6 +17,6 @@ saya membuat program ini dibuat dengan menggunakan handphone. code editor yang s
 
 ![gambar](https://github.com/candradwicahyo/get-mouse-position/blob/master/image.jpg)
 
-[coba program ini](https://candradwicahyo.githuh.io/get-mouse-position)
+[coba program ini](https://candradwicahyo.github.io/get-mouse-position)
 
 > dibuat oleh **candra dwi cahyo**
